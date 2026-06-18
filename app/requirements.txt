@@ -1,0 +1,7 @@
+gradio
+pillow
+pytesseract
+gTTS
+torch
+torchvision
+transformers
